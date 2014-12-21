@@ -1,0 +1,16 @@
+/* Boiler Main Stylesheet (Sass)
+ * Just a dead-simple ready-to-work boilerplate to simple projects	
+ * Version: 1.0
+ * Date: 21/12/2014
+ */
+ 
+body {
+  font: Arial, sans-serif;
+  color: #000000; 
+}
+
+a {
+  text-decoration: none;
+  color: #1EAEDB; 
+}
+
