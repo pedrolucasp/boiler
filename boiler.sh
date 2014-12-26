@@ -500,7 +500,9 @@ cat > index.html <<'indexfinal'
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="UTF-8">
+
     <title>Boiler</title>
 
     <!-- Stylesheets -->
